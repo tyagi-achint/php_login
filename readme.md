@@ -42,3 +42,12 @@ If you have any questions or need further assistance, feel free to contact the p
 
 Name: [Achint Tyagi]
 Email: [achinttyagi001@gmail.com]
+
+SS:
+
+![image](https://github.com/tyagi-achint/php_login/assets/67553854/e955ef96-efb8-4439-af22-907238ced782)
+![image](https://github.com/tyagi-achint/php_login/assets/67553854/fd70ff94-3491-44af-8933-bf49a6195069)
+![image](https://github.com/tyagi-achint/php_login/assets/67553854/61216aa3-a87f-4ef6-9180-490461eeaec3)
+
+
+
