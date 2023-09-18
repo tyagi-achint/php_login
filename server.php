@@ -2,7 +2,7 @@
 
 $server="localhost";
 $username="root";
-$password="**********";
+$password="";
 
 $registered  = false;
 $login = false;
